@@ -15,6 +15,3 @@ A stylish and modern imitation jewellery website showcasing elegant designs and 
 * CSS
 * JavaScript
 
-##  Author
-
-Abdul Rehman
